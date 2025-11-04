@@ -1,2 +1,15 @@
-# UTN-TUPAD-TPI-P1
-Repositorio para el Trabajo Practico Integrador de Programacion 1 de la TUPAD de UTN 2025.
+# 💻 Programación 1
+
+**Tecnicatura Universitaria en Programación**
+📍 _Universidad Tecnológica Nacional_
+
+## ✨ Estudiantes
+
+- **Nombre:** Chiavarini Carlos
+- **Comisión:** A2025-3
+- **Nombre:** Zerpa Alexis Cristian Boris
+- **Comisión:** A2025-?
+
+## 📂 Descripción del Repositorio
+
+Este repositorio almacena el Trabajo Practico Integrador de **Programación 1**.
