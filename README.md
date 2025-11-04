@@ -8,7 +8,7 @@
 - **Nombre:** Chiavarini Carlos
 - **Comisión:** A2025-3
 - **Nombre:** Zerpa Alexis Cristian Boris
-- **Comisión:** A2025-?
+- **Comisión:** A2025-10
 
 ## 📂 Descripción del Repositorio
 
