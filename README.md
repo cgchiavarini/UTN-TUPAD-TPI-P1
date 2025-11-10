@@ -38,8 +38,11 @@ El desarrollo aplica los principios de la **programación estructurada**, el uso
 ## 🧩 Estructura del Proyecto
 
 📦 **GestionPaises**
+
 📜 Trabajo_Practico_Integrador.py # Código principal en Python
+
 📜 paises.csv # Archivo con los datos de ejemplo
+
 📜 README.md # Documentación del proyecto
 
 **Bloques principales del programa:**
@@ -76,6 +79,7 @@ El desarrollo aplica los principios de la **programación estructurada**, el uso
 ## 🔗 Enlaces
 
 🎥 Video explicativo: Ver presentación
+
 💻 Repositorio GitHub: https://github.com/cgchiavarini/UTN-TUPAD-TPI-P1
 
 ## 🧠 Ejemplo de Entrada y Salida
