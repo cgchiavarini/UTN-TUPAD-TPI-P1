@@ -1,8 +1,11 @@
 # 💻 Programación 1
 
-Noviembre 2025
+# 🧾 Trabajo Práctico Integrador – Gestión de Datos de Países en Python
+
+**Noviembre 2025**
 
 **Tecnicatura Universitaria en Programación**
+
 📍 _Universidad Tecnológica Nacional_
 
 ## ✨ Estudiantes
@@ -17,8 +20,6 @@ Noviembre 2025
 - **Coordinador:** Alberto Cortez
 - **Profesores:** Cinthia Rigoni y Ariel Enferrel
 - **Tutores:** Brian Lara y Martina Zabala
-
-# 🧾 Trabajo Práctico Integrador – Gestión de Datos de Países en Python
 
 ## 📘 Descripción del Proyecto
 
@@ -86,8 +87,11 @@ El desarrollo aplica los principios de la **programación estructurada**, el uso
 
 📥 **Entrada de datos:**
 Ingrese el nombre del país: Argentina
+
 Ingrese la población: 45376763
+
 Ingrese la superficie: 2780400
+
 Ingrese el continente: América
 
 📤 **Salida esperada:**
