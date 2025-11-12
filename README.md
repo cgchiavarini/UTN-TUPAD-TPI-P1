@@ -79,7 +79,7 @@ El desarrollo aplica los principios de la **programación estructurada**, el uso
 
 ## 🔗 Enlaces
 
-🎥 Video explicativo: Ver presentación
+🎥 Video explicativo: https://youtu.be/iql0bS72Jtw
 
 💻 Repositorio GitHub: https://github.com/cgchiavarini/UTN-TUPAD-TPI-P1
 
